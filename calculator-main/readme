@@ -1,5 +1,1 @@
-Идея проекта:
-создать сайт в сумме с тремя вкладками.
-На первой вкладке будет непосредственно описание глобального потепления, 
-а также три надписи:"Причины глоабльного потепления", "Последствия глобального потепления" и "Пути решения глобального потепления",
-Которые в свою очередь будут каждая вести на сайт, рассказывающий об указанном аспекте глобального потепления
+The following project is a website that calculates the eco efficiency of a house based on its size, amount of lighbulbs and electronic devices. In case energy consumption is too high, the website provide a link to a form so that house owner can achieve more eco-friendly power consumption from the special assembly.
