@@ -1,1 +1,1 @@
-
+The following project is essentially an electronic diary. This was my first experience with requesting a registrationg from user by using thei email adress and creating a password. After the registration, user is able to create plan trough the notes regarding potential future projects. Each note includes Header, a Subtitle and the description of corresponding idea. This was a great practical implementation of user-oriented logic and interface.
